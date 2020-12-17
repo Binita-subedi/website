@@ -7,6 +7,7 @@ function Home() {
     <>
     <Section />
     <Cards /> 
+    <Footer />
     </>
   );
 }
